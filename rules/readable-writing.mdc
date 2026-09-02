@@ -1,11 +1,9 @@
 ---
-name: readable-writing
-description: >-
-  Write reports, MR descriptions, and teammate replies in plain Chinese.
-  Use when drafting 报告, report.md, MR 描述, 指派人回复, 工作纪要, 去 AI 味, or 说人话.
+description: 给人看的中文要先结论、说人话、不演模板
+alwaysApply: true
 ---
 
-# 人话写作
+# 给人看的文字
 
 读者是同事，不是这份代码的作者。报告、MR、回复、纪要、说明都按这个写。贴进来的代码、日志、命令、配置原样留，一个字不动。
 
